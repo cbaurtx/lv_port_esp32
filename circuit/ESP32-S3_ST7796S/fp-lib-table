@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad_modulesFP")(type "KiCad")(uri "/home/iris/Development/Source/lv_port_esp32/circuit/kicad_custom/KiCad_modulesFP")(options "")(descr ""))
+)

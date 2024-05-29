@@ -2,6 +2,9 @@
  * @file lvgl_helpers.h
  */
 
+
+#define SHARED_SPI_BUS
+
 #ifndef LVGL_HELPERS_H
 #define LVGL_HELPERS_H
 
